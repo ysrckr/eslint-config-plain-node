@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-plain-node",
+  "name": "@ysrckr/eslint-config-plain-node",
   "version": "1.0.0",
   "description": "Eslint config for vanilla node apps",
   "main": "index.js",
@@ -12,6 +12,9 @@
     "vanilla",
     "vanilla-node"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/ysrckr"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
