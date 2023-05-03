@@ -1,0 +1,36 @@
+{
+  "name": "@ysrckr/eslint-config-plain-node",
+  "version": "1.0.0",
+  "description": "Eslint config for vanilla node apps",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eslint-config-plain-node",
+    "node",
+    "nodejs",
+    "vanilla",
+    "vanilla-node"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysrckr/eslint-config-plain-node.git"
+  },
+  "author": "Yasar Cakir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ysrckr/eslint-config-plain-node/issues"
+  },
+  "homepage": "https://github.com/ysrckr/eslint-config-plain-node#readme",
+  "peerDependencies": {
+    "eslint": ">=8.39.0",
+    "eslint-config-prettier": ">=8.8.0",
+    "eslint-plugin-eqeqeq-fix": ">=1.0.3",
+    "eslint-plugin-prettier": ">=4.2.1",
+    "eslint-plugin-unused-imports": ">=2.0.0",
+    "prettier": ">=2.8.8"
+  }
+}
