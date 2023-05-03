@@ -1,5 +1,5 @@
 {
-  "name": "@ysrckr/eslint-config-plain-node",
+  "name": "eslint-config-plain-node",
   "version": "1.0.0",
   "description": "Eslint config for vanilla node apps",
   "main": "index.js",
